@@ -8,27 +8,27 @@
     }
     html:before {
         height: 20px;
-        left: 10px;
-        right: 10px;
-        top: 10px;
+        left: 0px;
+        right: 0px;
+        top: 0px;
     }
     html:after {
         width: 20px;
-        top: 10px;
-        right: 10px;
-        bottom: 10px;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
     }
     body:before {
         height: 20px;
-        right: 10px;
-        bottom: 10px;
-        left: 10px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
     }
     body:after {
         width: 20px;
-        top: 10px;
-        bottom: 10px;
-        left: 10px;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
     }
     
     
