@@ -1,7 +1,4 @@
-body, html {
-  font-family: "Century Gothic", Trebuchet, sans-serif;
-  background-color: ##aaaa99
-}
+
     html:before, html:after, body:before, body:after {
         content: "";
         background: /*#484732; */#dad8bb;
@@ -36,7 +33,7 @@ body, html {
     
     
     body {
-      font-family: 'Bilbo Swash Caps', "Century Gothic", Arial, sans-serif;
+      font-family: 'Cherry Swash', cursive;
       background-color: #aaaa99;
       color: #484732;
     }
