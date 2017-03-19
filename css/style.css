@@ -62,14 +62,14 @@ hr {
 }
 
 #pinned {
-  position: absolute;
+  position: fixed;
   top: 0px;
   left: 0px;
   z-index: 10;
 }
 
 #pinner {
-  position: absolute;
+  position: fixed;
   min-width:960px;
 }
 
