@@ -143,4 +143,47 @@ hr {
     100% { opacity: 1; }
 }
 
+.blink2 {
+    -webkit-animation: blink3 .75s linear infinite;
+    -moz-animation: blink3 .75s linear infinite;
+    -ms-animation: blink3 .75s linear infinite;
+    -o-animation: blink3 .75s linear infinite;
+    animation: blink3 .75s linear infinite;
+}
+
+@-webkit-keyframes blink3 {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    50.01% { opacity: 1; }
+    100% { opacity: 1; }
+}
+
+@-moz-keyframes blink3 {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    50.01% { opacity: 1; }
+    100% { opacity: 1; }
+}
+
+@-ms-keyframes blink3 {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    50.01% { opacity: 1; }
+    100% { opacity: 1; }
+}
+
+@-o-keyframes blink3 {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    50.01% { opacity: 1; }
+    100% { opacity: 1; }
+}
+
+@keyframes blink3 {
+    0% { opacity: 0; }
+    50% { opacity: 0; }
+    50.01% { opacity: 1; }
+    100% { opacity: 1; }
+}
+
 
