@@ -6,24 +6,28 @@ html:before, html:after, body:before, body:after {
   display: block;
   z-index: 5;
 }
+
 html:before {
   height: 40px;
   left: 0px;
   right: 0px;
   top: 0px;
 }
+
 html:after {
   width: 40px;
   top: 0px;
   right: 0px;
   bottom: 0px;
 }
+
 body:before {
   height: 40px;
   right: 0px;
   bottom: 0px;
   left: 0px;
 }
+
 body:after {
   width: 40px;
   top: 0px;
@@ -31,12 +35,12 @@ body:after {
   left: 0px;
 }
 
-
 body {
   font-family: 'Cherry Swash', cursive;
   background-color: #b75403;
   color: #484732;
 }
+
 h1 {
   font-size: 7em;
   text-align: center;
@@ -47,19 +51,30 @@ h1 {
 hr {
   border: 2px solid #1f7da5;
 }
+
 .stop-looking-at-my-divs {
 
 }
+
 .please-stop-looking {
   padding-left: 30%;
   padding-right: 30%;
-
 }
+
+#pinned {
+ position: relative; 
+}
+
+#pinned img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
 .no-really-please-stop {
   padding-top: 15%;
   padding-left: 10%;
   padding-right: 10%;
-
 }
 
 .blink {
