@@ -48,26 +48,26 @@ hr {
   border: 2px solid #1f7da5;
 }
 .stop-looking-at-my-divs {
-  
+
 }
 .please-stop-looking {
   padding-left: 40%;
   padding-right: 40%;
-  
+
 }
 .no-really-please-stop {
   padding-top: 10%;
   padding-left: 10%;
   padding-right: 10%;
-  
+
 }
 
 .blink {
-  -webkit-animation: blink 1s linear .05s infinite;
-  -moz-animation: blink 1s linear .05s infinite;
-  -ms-animation: blink 1s linear .05s infinite;
-  -o-animation: blink 1s linear .05s infinite;
-  animation: blink 1s linear .05s infinite;
+  -webkit-animation: blink 2s linear .05s infinite;
+  -moz-animation: blink 2s linear .05s infinite;
+  -ms-animation: blink 2s linear .05s infinite;
+  -o-animation: blink 2s linear .05s infinite;
+  animation: blink 2s linear .05s infinite;
 }
 
 @-webkit-keyframes blink {
@@ -107,11 +107,11 @@ hr {
 
 
 .blink2 {
-  -webkit-animation: blink2 1s linear .15s infinite;
-  -moz-animation: blink2 1s linear .15s infinite;
-  -ms-animation: blink2 1s linear .15s infinite;
-  -o-animation: blink2 1s linear .15s infinite;
-  animation: blink2 1s linear .15s infinite;
+  -webkit-animation: blink2 2s linear .15s infinite;
+  -moz-animation: blink2 2s linear .15s infinite;
+  -ms-animation: blink2 2s linear .15s infinite;
+  -o-animation: blink2 2s linear .15s infinite;
+  animation: blink2 2s linear .15s infinite;
 }
 
 @-webkit-keyframes blink2 {
@@ -150,11 +150,11 @@ hr {
 }
 
 .blink3 {
-  -webkit-animation: blink3 1s linear .25s infinite;
-  -moz-animation: blink3 1s linear .25s infinite;
-  -ms-animation: blink3 1s linear .25s infinite;
-  -o-animation: blink3 1s linear .25s infinite;
-  animation: blink3 1s linear .25s infinite;
+  -webkit-animation: blink3 2s linear .25s infinite;
+  -moz-animation: blink3 2s linear .25s infinite;
+  -ms-animation: blink3 2s linear .25s infinite;
+  -o-animation: blink3 2s linear .25s infinite;
+  animation: blink3 2s linear .25s infinite;
 }
 
 @-webkit-keyframes blink3 {
@@ -193,11 +193,11 @@ hr {
 }
 
 .blink4 {
-  -webkit-animation: blink4 1s linear .35s infinite;
-  -moz-animation: blink4 1s linear .35s infinite;
-  -ms-animation: blink4 1s linear .35s infinite;
-  -o-animation: blink4 1s linear .35s infinite;
-  animation: blink4 1s linear .35s infinite;
+  -webkit-animation: blink4 2s linear .35s infinite;
+  -moz-animation: blink4 2s linear .35s infinite;
+  -ms-animation: blink4 2s linear .35s infinite;
+  -o-animation: blink4 2s linear .35s infinite;
+  animation: blink4 2s linear .35s infinite;
 }
 
 @-webkit-keyframes blink4 {
@@ -236,11 +236,11 @@ hr {
 }
 
 .blink5 {
-  -webkit-animation: blink5 1s linear .45s infinite;
-  -moz-animation: blink5 1s linear .45s infinite;
-  -ms-animation: blink5 1s linear .45s infinite;
-  -o-animation: blink5 1s linear .45s infinite;
-  animation: blink5 1s linear .45s infinite;
+  -webkit-animation: blink5 2s linear .45s infinite;
+  -moz-animation: blink5 2s linear .45s infinite;
+  -ms-animation: blink5 2s linear .45s infinite;
+  -o-animation: blink5 2s linear .45s infinite;
+  animation: blink5 2s linear .45s infinite;
 }
 
 @-webkit-keyframes blink5 {
@@ -279,11 +279,11 @@ hr {
 }
 
 .blink6 {
-  -webkit-animation: blink6 1s linear .55s infinite;
-  -moz-animation: blink6 1s linear .55s infinite;
-  -ms-animation: blink6 1s linear .55s infinite;
-  -o-animation: blink6 1s linear .55s infinite;
-  animation: blink6 1s linear .55s infinite;
+  -webkit-animation: blink6 2s linear .55s infinite;
+  -moz-animation: blink6 2s linear .55s infinite;
+  -ms-animation: blink6 2s linear .55s infinite;
+  -o-animation: blink6 2s linear .55s infinite;
+  animation: blink6 2s linear .55s infinite;
 }
 
 @-webkit-keyframes blink6 {
@@ -322,11 +322,11 @@ hr {
 }
 
 .blink7 {
-  -webkit-animation: blink7 1s linear .65s infinite;
-  -moz-animation: blink7 1s linear .65s infinite;
-  -ms-animation: blink7 1s linear .65s infinite;
-  -o-animation: blink7 1s linear .65s infinite;
-  animation: blink7 1s linear .65s infinite;
+  -webkit-animation: blink7 2s linear .65s infinite;
+  -moz-animation: blink7 2s linear .65s infinite;
+  -ms-animation: blink7 2s linear .65s infinite;
+  -o-animation: blink7 2s linear .65s infinite;
+  animation: blink7 2s linear .65s infinite;
 }
 
 @-webkit-keyframes blink7 {
@@ -365,11 +365,11 @@ hr {
 }
 
 .blink8 {
-  -webkit-animation: blink8 1s linear .75s infinite;
-  -moz-animation: blink8 1s linear .75s infinite;
-  -ms-animation: blink8 1s linear .75s infinite;
-  -o-animation: blink8 1s linear .75s infinite;
-  animation: blink8 1s linear .75s infinite;
+  -webkit-animation: blink8 2s linear .75s infinite;
+  -moz-animation: blink8 2s linear .75s infinite;
+  -ms-animation: blink8 2s linear .75s infinite;
+  -o-animation: blink8 2s linear .75s infinite;
+  animation: blink8 2s linear .75s infinite;
 }
 
 @-webkit-keyframes blink8 {
