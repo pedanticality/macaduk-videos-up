@@ -73,35 +73,35 @@ hr {
 @-webkit-keyframes blink {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -117,35 +117,35 @@ hr {
 @-webkit-keyframes blink2 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink2 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink2 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink2 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink2 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -160,35 +160,35 @@ hr {
 @-webkit-keyframes blink3 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink3 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink3 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink3 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink3 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -203,35 +203,35 @@ hr {
 @-webkit-keyframes blink4 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink4 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink4 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink4 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink4 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -246,35 +246,35 @@ hr {
 @-webkit-keyframes blink5 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink5 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink5 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink5 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink5 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -289,35 +289,35 @@ hr {
 @-webkit-keyframes blink6 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink6 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink6 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink6 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink6 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -332,35 +332,35 @@ hr {
 @-webkit-keyframes blink7 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink7 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink7 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink7 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink7 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -375,35 +375,35 @@ hr {
 @-webkit-keyframes blink8 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink8 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink8 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink8 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink8 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -418,35 +418,35 @@ hr {
 @-webkit-keyframes blink9 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink9 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink9 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink9 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink9 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
@@ -461,34 +461,34 @@ hr {
 @-webkit-keyframes blink10 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-moz-keyframes blink10 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-ms-keyframes blink10 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @-o-keyframes blink10 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
 
 @keyframes blink10 {
   0% { opacity: 0; }
   50% { opacity: 1; }
-  50.01% { opacity: 1; }
+  50.01% { opacity: 0; }
   100% { opacity: 0; }
 }
