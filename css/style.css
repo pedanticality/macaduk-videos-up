@@ -68,11 +68,6 @@ hr {
   z-index: 10;
 }
 
-#pinner {
-  position: fixed;
-  min-width:960px;
-}
-
 .no-really-please-stop {
   padding-top: 15%;
   padding-left: 10%;
