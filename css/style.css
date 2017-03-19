@@ -186,4 +186,47 @@ hr {
     100% { opacity: 1; }
 }
 
+.blink4 {
+    -webkit-animation: blink4 .90s linear infinite;
+    -moz-animation: blink4 .90s linear infinite;
+    -ms-animation: blink4 .90s linear infinite;
+    -o-animation: blink4 .90s linear infinite;
+    animation: blink4 .90s linear infinite;
+}
+
+@-webkit-keyframes blink4 {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@-moz-keyframes blink4 {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@-ms-keyframes blink4 {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@-o-keyframes blink4 {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes blink4 {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
 
