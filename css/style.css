@@ -1,7 +1,7 @@
 
 html:before, html:after, body:before, body:after {
   content: "";
-  background: #484732;
+  background: #8f8f8f;
   position: fixed;
   display: block;
   z-index: 5;
@@ -37,8 +37,8 @@ body:after {
 
 body {
   font-family: 'Cherry Swash', cursive;
-  background-color: #b75403;
   color: #484732;
+  background-color: #FFAE19;
 }
 
 h1 {
