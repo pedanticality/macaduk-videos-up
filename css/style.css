@@ -62,13 +62,9 @@ hr {
 }
 
 #pinned {
- position: relative; 
-}
-
-#pinned img {
   position: absolute;
   top: 0px;
-  right: 0px;
+  left: 0px;
 }
 
 .no-really-please-stop {
