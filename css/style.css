@@ -143,7 +143,7 @@ hr {
     100% { opacity: 1; }
 }
 
-.blink2 {
+.blink3 {
     -webkit-animation: blink3 .75s linear infinite;
     -moz-animation: blink3 .75s linear infinite;
     -ms-animation: blink3 .75s linear infinite;
@@ -153,23 +153,23 @@ hr {
 
 @-webkit-keyframes blink3 {
     0% { opacity: 0; }
-    50% { opacity: 0; }
+    50% { opacity: 1; }
     50.01% { opacity: 1; }
-    100% { opacity: 1; }
+    100% { opacity: 0; }
 }
 
 @-moz-keyframes blink3 {
     0% { opacity: 0; }
-    50% { opacity: 0; }
+    50% { opacity: 1; }
     50.01% { opacity: 1; }
-    100% { opacity: 1; }
+    100% { opacity: 0; }
 }
 
 @-ms-keyframes blink3 {
     0% { opacity: 0; }
-    50% { opacity: 0; }
+    50% { opacity: 1; }
     50.01% { opacity: 1; }
-    100% { opacity: 1; }
+    100% { opacity: 0; }
 }
 
 @-o-keyframes blink3 {
@@ -181,9 +181,9 @@ hr {
 
 @keyframes blink3 {
     0% { opacity: 0; }
-    50% { opacity: 0; }
+    50% { opacity: 1; }
     50.01% { opacity: 1; }
-    100% { opacity: 1; }
+    100% { opacity: 0; }
 }
 
 
