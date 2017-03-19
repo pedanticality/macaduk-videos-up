@@ -62,10 +62,15 @@ hr {
 }
 
 #pinned {
-  position: relative;
+  position: absolute;
   top: 0px;
   left: 0px;
   z-index: 10;
+}
+
+#pinner {
+  position: relative;
+  min-width:960px;
 }
 
 .no-really-please-stop {
