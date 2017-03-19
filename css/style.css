@@ -1,7 +1,7 @@
 
 html:before, html:after, body:before, body:after {
   content: "";
-  background: /*#484732; */#1f7da5;
+  background: #1f7da5;
   position: fixed;
   display: block;
   z-index: 5;
@@ -49,7 +49,7 @@ h1 {
 }
 
 hr {
-  border: 2px solid #1f7da5;
+  border: 2px solid #484732;
 }
 
 .stop-looking-at-my-divs {
