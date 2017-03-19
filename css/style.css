@@ -101,11 +101,11 @@ hr {
 
 
 .blink2 {
-    -webkit-animation: blink2 .5s linear infinite;
-    -moz-animation: blink2 .5s linear infinite;
-    -ms-animation: blink2 .5s linear infinite;
-    -o-animation: blink2 .5s linear infinite;
-    animation: blink2 .5s linear infinite;
+    -webkit-animation: blink2 .80s linear infinite;
+    -moz-animation: blink2 .80s linear infinite;
+    -ms-animation: blink2 .80s linear infinite;
+    -o-animation: blink2 .80s linear infinite;
+    animation: blink2 .80s linear infinite;
 }
 
 @-webkit-keyframes blink2 {
@@ -144,46 +144,46 @@ hr {
 }
 
 .blink3 {
-    -webkit-animation: blink3 .75s linear infinite;
-    -moz-animation: blink3 .75s linear infinite;
-    -ms-animation: blink3 .75s linear infinite;
-    -o-animation: blink3 .75s linear infinite;
-    animation: blink3 .75s linear infinite;
+    -webkit-animation: blink3 .85s linear infinite;
+    -moz-animation: blink3 .85s linear infinite;
+    -ms-animation: blink3 .85s linear infinite;
+    -o-animation: blink3 .85s linear infinite;
+    animation: blink3 .85s linear infinite;
 }
 
 @-webkit-keyframes blink3 {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    50.01% { opacity: 1; }
-    100% { opacity: 0; }
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
 }
 
 @-moz-keyframes blink3 {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    50.01% { opacity: 1; }
-    100% { opacity: 0; }
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
 }
 
 @-ms-keyframes blink3 {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    50.01% { opacity: 1; }
-    100% { opacity: 0; }
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
 }
 
 @-o-keyframes blink3 {
-    0% { opacity: 0; }
+    0% { opacity: 1; }
     50% { opacity: 0; }
-    50.01% { opacity: 1; }
+    50.01% { opacity: 0; }
     100% { opacity: 1; }
 }
 
 @keyframes blink3 {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    50.01% { opacity: 1; }
-    100% { opacity: 0; }
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    50.01% { opacity: 0; }
+    100% { opacity: 1; }
 }
 
 
