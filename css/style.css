@@ -50,11 +50,16 @@ border-color: #1f7da5;
 .stop-looking-at-my-divs {
   margin-top: 10%;
 }
-
 .no-really-please-stop {
 padding-top: 10%;
-    padding-left: 25%;
-    padding-right: 25%;
+    padding-left: 40%;
+    padding-right: 40%;
+
+}
+.no-really-please-stop {
+padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
 
 }
 
