@@ -408,11 +408,11 @@ hr {
 }
 
 .blink9 {
-  -webkit-animation: blink9 .85s linear .85s infinite;
-  -moz-animation: blink9 .85s linear .85s infinite;
-  -ms-animation: blink9 .85s linear .85s infinite;
-  -o-animation: blink9 .85s linear .85s infinite;
-  animation: blink9 .85s linear .85s infinite;
+  -webkit-animation: blink9 2s linear .85s infinite;
+  -moz-animation: blink9 2s linear .85s infinite;
+  -ms-animation: blink9 2s linear .85s infinite;
+  -o-animation: blink9 2s linear .85s infinite;
+  animation: blink9 2s linear .85s infinite;
 }
 
 @-webkit-keyframes blink9 {
@@ -451,11 +451,11 @@ hr {
 }
 
 .blink10 {
-  -webkit-animation: blink10 .95s linear .95s infinite;
-  -moz-animation: blink10 .95s linear .95s infinite;
-  -ms-animation: blink10 .95s linear .95s infinite;
-  -o-animation: blink10 .95s linear .95s infinite;
-  animation: blink10 .95s linear .95s infinite;
+  -webkit-animation: blink10 2s linear .95s infinite;
+  -moz-animation: blink10 2s linear .95s infinite;
+  -ms-animation: blink10 2s linear .95s infinite;
+  -o-animation: blink10 2s linear .95s infinite;
+  animation: blink10 2s linear .95s infinite;
 }
 
 @-webkit-keyframes blink10 {
@@ -494,11 +494,11 @@ hr {
 }
 
 .blink11 {
-  -webkit-animation: blink11 .95s linear .95s infinite;
-  -moz-animation: blink11 .95s linear .95s infinite;
-  -ms-animation: blink11 .95s linear .95s infinite;
-  -o-animation: blink11 .95s linear .95s infinite;
-  animation: blink11 .95s linear .95s infinite;
+  -webkit-animation: blink11 2s linear .95s infinite;
+  -moz-animation: blink11 2s linear .95s infinite;
+  -ms-animation: blink11 2s linear .95s infinite;
+  -o-animation: blink11 2s linear .95s infinite;
+  animation: blink11 2s linear .95s infinite;
 }
 
 @-webkit-keyframes blink11 {
