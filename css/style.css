@@ -7,25 +7,25 @@ html:before, html:after, body:before, body:after {
   z-index: 5;
 }
 html:before {
-  height: 20px;
+  height: 40px;
   left: 0px;
   right: 0px;
   top: 0px;
 }
 html:after {
-  width: 20px;
+  width: 40px;
   top: 0px;
   right: 0px;
   bottom: 0px;
 }
 body:before {
-  height: 20px;
+  height: 40px;
   right: 0px;
   bottom: 0px;
   left: 0px;
 }
 body:after {
-  width: 20px;
+  width: 40px;
   top: 0px;
   bottom: 0px;
   left: 0px;
@@ -38,7 +38,7 @@ body {
   color: #484732;
 }
 h1 {
-  font-size: 5em;
+  font-size: 7em;
   text-align: center;
   vertical-align: middle;
   font-weight: normal;
