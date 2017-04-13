@@ -66,12 +66,47 @@ a {
 }
 
 a:hover {
-  -webkit-animation: blink 1s ease .05s infinite;
-  -moz-animation: blink 1s ease .05s infinite;
-  -ms-animation: blink 1s ease .05s infinite;
-  -o-animation: blink 1s ease .05s infinite;
-  animation: blink 1s ease .05s infinite;
+  -webkit-animation: cyc 1s ease .05s infinite;
+  -moz-animation: cyc 1s ease .05s infinite;
+  -ms-animation: cyc 1s ease .05s infinite;
+  -o-animation: cyc 1s ease .05s infinite;
+  animation: cyc 1s ease .05s infinite;
   color: #9ee5dc;
+}
+
+@-webkit-keyframes cyc {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  50.01% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-moz-keyframes cyc {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  50.01% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-ms-keyframes cyc {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  50.01% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@-o-keyframes cyc {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  50.01% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes cyc {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  50.01% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 hr {
