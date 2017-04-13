@@ -63,11 +63,11 @@ h3 {
 
 a {
   color: #2ead9c;  
-  -webkit-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
-  -moz-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
-  -ms-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
-  -o-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
-  animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
+  -webkit-animation: cyc 3s cubic-bezier(.96,.06,.94,.97) infinite;
+  -moz-animation: cyc 3s cubic-bezier(.96,.06,.94,.97) infinite;
+  -ms-animation: cyc 3s cubic-bezier(.96,.06,.94,.97) infinite;
+  -o-animation: cyc 3s cubic-bezier(.96,.06,.94,.97) infinite;
+  animation: cyc 3s cubic-bezier(.96,.06,.94,.97) infinite;
 }
 
 a:hover {
