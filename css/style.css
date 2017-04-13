@@ -1,7 +1,7 @@
 
 html:before, html:after, body:before, body:after {
   content: "";
-  background: #BFFFE9;
+  background: #484732;
   position: fixed;
   display: block;
   z-index: 5;
