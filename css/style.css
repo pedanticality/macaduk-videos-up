@@ -1,7 +1,6 @@
-
 html:before, html:after, body:before, body:after {
   content: "";
-  background: #484732;
+  background: #BFFFE9;
   position: fixed;
   display: block;
   z-index: 5;
@@ -559,4 +558,3 @@ hr {
   50% { opacity: 0; }
   50.01% { opacity: 1; }
   100% { opacity: 1; }
-}
