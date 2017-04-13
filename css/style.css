@@ -62,7 +62,16 @@ h3 {
 }
 
 a {
-  color: #238578;  
+  color: #2ead9c;  
+}
+
+a:hover {
+  -webkit-animation: blink 2s linear .05s infinite;
+  -moz-animation: blink 2s linear .05s infinite;
+  -ms-animation: blink 2s linear .05s infinite;
+  -o-animation: blink 2s linear .05s infinite;
+  animation: blink 2s linear .05s infinite;
+  color: #9ee5dc;
 }
 
 hr {
