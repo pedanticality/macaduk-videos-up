@@ -81,36 +81,36 @@ a:hover {
 
 @-webkit-keyframes cyc {
   0% { opacity: 1; }
-  50% { opacity: 0; }
-  50.01% { opacity: 0; }
+  50% { opacity: .2; }
+  50.01% { opacity: .2; }
   100% { opacity: 1; }
 }
 
 @-moz-keyframes cyc {
   0% { opacity: 1; }
-  50% { opacity: 0; }
-  50.01% { opacity: 0; }
+  50% { opacity: .2; }
+  50.01% { opacity: .2; }
   100% { opacity: 1; }
 }
 
 @-ms-keyframes cyc {
   0% { opacity: 1; }
-  50% { opacity: 0; }
-  50.01% { opacity: 0; }
+  50% { opacity: .2; }
+  50.01% { opacity: .2; }
   100% { opacity: 1; }
 }
 
 @-o-keyframes cyc {
   0% { opacity: 1; }
-  50% { opacity: 0; }
-  50.01% { opacity: 0; }
+  50% { opacity: .2; }
+  50.01% { opacity: .2; }
   100% { opacity: 1; }
 }
 
 @keyframes cyc {
   0% { opacity: 1; }
-  50% { opacity: 0; }
-  50.01% { opacity: 0; }
+  50% { opacity: .2; }
+  50.01% { opacity: .2; }
   100% { opacity: 1; }
 }
 
