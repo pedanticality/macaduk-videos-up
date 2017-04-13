@@ -63,6 +63,11 @@ h3 {
 
 a {
   color: #2ead9c;  
+  -webkit-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
+  -moz-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
+  -ms-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
+  -o-animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
+  animation: cyc 1s cubic-bezier(.17,.67,.83,.67) infinite;
 }
 
 a:hover {
